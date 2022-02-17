@@ -1,3 +1,10 @@
+Food:
 Ramen
 Sushi
 Sour Gummy Worms
+
+Movies:
+Clueless
+Silence of the Lambs
+It Follows
+
